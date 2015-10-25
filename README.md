@@ -14,3 +14,8 @@ Following content are supported:
 - Link : Right click on your favorite link and select 'Share with your Mobile/Tablet' context menu.
 
 - YouTube Video: Right click anywhere on the page and select 'Share with your Mobile/Tablet' context menu.
+
+
+
+Download the app from Chrome store
+https://chrome.google.com/webstore/detail/share-me-content-sharing/hhcmoefkofcdbfbpgibmffepdgaklppi
